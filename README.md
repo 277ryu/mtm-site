@@ -1,1 +1,1 @@
-Live site demo of Mission to Mars.
+Mission to Mars if it's published.
